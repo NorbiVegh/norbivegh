@@ -5,7 +5,6 @@
 
 - My up-to-date project [House Catalog](https://github.com/NorbiVegh/housecatalog)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
